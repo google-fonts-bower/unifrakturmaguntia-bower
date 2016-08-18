@@ -1,0 +1,17 @@
+{
+    "name": "unifrakturmaguntia-googlefont",
+    "license": "OFL",
+    "authors": [
+        "j. 'mach' wust"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/unifrakturmaguntia-bower.git"
+    },
+    "description": "UnifrakturMaguntia font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
